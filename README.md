@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Social Media Automation Tool
 
 A comprehensive solution for automating social media posting to LinkedIn, Twitter, and other platforms without using APIs. This tool uses browser automation to simulate human interactions with social media platforms.
@@ -283,3 +284,6 @@ This tool is for educational and legitimate business purposes only. Users are re
 - Monitoring their accounts for any issues
 
 The authors are not responsible for any account restrictions, bans, or other consequences resulting from the use of this tool.
+=======
+# social-media-automation
+>>>>>>> a4d01aaed593b59885f86b6e776f1ae8043c0271
